@@ -1,0 +1,5 @@
+:80 {
+root /usr/local/caddy/www
+gzip
+browse
+}
